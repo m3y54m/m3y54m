@@ -16,7 +16,7 @@ I develop embedded software in [C/C++](https://en.wikipedia.org/wiki/C_(programm
 
 So far I have worked on some professional projects related to "Optical Telecommunication Systems", and "Instrumentation and Monitoring Systems".
 
-I also developed a navigation and control system for a [mobile robot](https://en.wikipedia.org/wiki/Mobile_robot) when I was a bachelor's student.
+I also developed a navigation and control system for a [mobile robot](https://en.wikipedia.org/wiki/Mobile_robot) when I was a bachelor's student. I implemented the robot's vision using image processing in [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) and [OpenCV](https://en.wikipedia.org/wiki/OpenCV) and implemented the embedded system for robot's navigation using AVR and LPC1768 microcontrollers in [C](https://en.wikipedia.org/wiki/C_(programming_language)).
 
 I'm highly interested in [Robotics](https://en.wikipedia.org/wiki/Robotics), [IoT](https://en.wikipedia.org/wiki/Internet_of_things), [InfoSec](https://en.wikipedia.org/wiki/Information_security), and [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning).
 
