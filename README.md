@@ -13,8 +13,8 @@
 ![FPGA](https://img.shields.io/badge/fpga-gray?style=for-the-badge&logo=xilinx&logoColor=white)
 ![VHDL](https://img.shields.io/badge/vhdl-red?style=for-the-badge&logo=xilinx&logoColor=white)
 ![Verilog](https://img.shields.io/badge/verilog-blue?style=for-the-badge&logo=xilinx&logoColor=white)
-![Vivado](https://img.shields.io/badge/vivado-green?style=for-the-badge&logo=xilinx&logoColor=white)
-![ISE](https://img.shields.io/badge/ise-green?style=for-the-badge&logo=xilinx&logoColor=white)
+![Vivado](https://img.shields.io/badge/vivado-green?style=for-the-badge&logo=xilinx&logoColor=red)
+![ISE](https://img.shields.io/badge/ise-green?style=for-the-badge&logo=xilinx&logoColor=red)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
