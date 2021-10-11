@@ -1,20 +1,27 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Nice to see you</h1>
 
-<p>I'm Meysam Parvizi. An electronics engineer with great passsion in <b>Embedded Sytems</b> 👨‍💻 , <b>Robotics</b> 🤖 and <b>Internet of Things</b> 🌐.</p>
+<p>I'm Meysam Parvizi. An electronics engineer with great passsion in <b>Embedded Sytems</b> 👨‍💻 , <b>Robotics</b> 🤖 and <b>Internet of Things</b> 🌐</p>
 
 <p align="center"> <img src="assets/me.jpg" alt="m3y54m" />
 
-<p>You can take a look at all my open source hardware and software projects here. I hope you find them useful. So don't forget to star ⭐ my repositories 😄.</p>
+<p>You can take a look at all my open source hardware and software projects here. I hope you find them useful. So don't forget to star ⭐ my repositories 😄</p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=m3y54m&show_icons=true&theme=slateorange" alt="m3y54m" />
 
 <p>These are the languages, technologies and tools which I've used in my projects.</p>
 
-![FPGA](https://img.shields.io/badge/fpga-gray?style=for-the-badge&logo=xilinx&logoColor=white)
-![VHDL](https://img.shields.io/badge/vhdl-red?style=for-the-badge&logo=xilinx&logoColor=white)
-![Verilog](https://img.shields.io/badge/verilog-blue?style=for-the-badge&logo=xilinx&logoColor=white)
+<h2>FPGA & Embedded Design</h2>
+
+![VHDL](https://img.shields.io/badge/vhdl-red?style=for-the-badge&logo=v&logoColor=white)
+![Verilog](https://img.shields.io/badge/verilog-blue?style=for-the-badge&logo=v&logoColor=white)
 ![Vivado](https://img.shields.io/badge/vivado-green?style=for-the-badge&logo=xilinx&logoColor=red)
 ![ISE](https://img.shields.io/badge/ise-green?style=for-the-badge&logo=xilinx&logoColor=red)
+![ARM](https://img.shields.io/badge/arm-blue?style=for-the-badge)
+![RTOS](https://img.shields.io/badge/rtos-purple?style=for-the-badge)
+![Altium Designer](https://img.shields.io/badge/altium%20designer-orange?style=for-the-badge)
+
+
+<h2>Programming Languages and Frameworks</h2>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -22,12 +29,16 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+<h2>Machine Learning & Image Processing</h2>
 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
+<h2>Web Development</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -38,9 +49,12 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+<h2>Softwares & Tools</h2>
+
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -50,7 +64,7 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-<p>If you like to keep in touch with me on social networks, just make a connection ⛓️.
+<p>If you like to keep in touch with me on social networks, just make a connection:
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://ir.linkedin.com/in/meysamparvizi)
