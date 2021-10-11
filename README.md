@@ -1,39 +1,59 @@
-### Hi! 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Nice to see you.</h1>
 
-### I'm Meysam Parvizi 🙋‍♂️
+<p>I'm Meysam Parvizi. An electronics engineer with great passsion in <b>Embedded Sytems</b> 👨‍💻 , <b>Robotics</b> 🤖 and <b>Internet of Things</b> 🌐.</p>
 
-I was 14 years-old when for the first time I had the chance work with a [COMPUTER](https://en.wikipedia.org/wiki/Computer)!
+<p align="center"> <img src="assets/me.jpg" alt="m3y54m" />
 
-That magical experience made me to start learning programming using [GW-BASIC](https://en.wikipedia.org/wiki/GW-BASIC), [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language)), and  [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic).
+<p>You can take a look at all my open source hardware and software projects here. I hope you find them interesting and give me some stars ⭐.</p>
 
-I also started web design by learning [Adobe Photoshop](https://en.wikipedia.org/wiki/Adobe_Photoshop), [HTML](https://en.wikipedia.org/wiki/HTML), and [CSS](https://en.wikipedia.org/wiki/CSS).
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=m3y54m&show_icons=true&theme=bear" alt="m3y54m" />
 
-That was not enough for me. I should have understood that how a computer really works. So I decided to become an electronics engineer! 
+<p>These are the languages, technologies and tools which I've used in my projects.</p>
 
-Now I am a graduted [Electronics Engineer](https://en.wikipedia.org/wiki/Electronic_engineering) professionaly working as an "Embedded Software and Hardware Developer".
+![FPGA](https://img.shields.io/badge/fpga-gray?style=for-the-badge&logo=xilinx&logoColor=white)
+![VHDL](https://img.shields.io/badge/vhdl-red?style=for-the-badge&logo=xilinx&logoColor=white)
+![Verilog](https://img.shields.io/badge/verilog-blue?style=for-the-badge&logo=xilinx&logoColor=white)
+![Vivado](https://img.shields.io/badge/vivado-green?style=for-the-badge&logo=xilinx&logoColor=white)
+![ISE](https://img.shields.io/badge/ise-green?style=for-the-badge&logo=xilinx&logoColor=white)
 
-I develop embedded software in [C/C++](https://en.wikipedia.org/wiki/C_(programming_language)) and design customizable hardware using [FPGA](https://en.wikipedia.org/wiki/Field-programmable_gate_array) with [VHDL/Verilog](https://en.wikipedia.org/wiki/Hardware_description_language) languages.
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
-So far I have worked on some professional projects related to "Optical Telecommunication Systems", and "Instrumentation and Monitoring Systems".
-
-I also developed a navigation and control system for a [mobile robot](https://en.wikipedia.org/wiki/Mobile_robot) when I was a bachelor's student. I implemented the robot's vision using image processing in [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) and [OpenCV](https://en.wikipedia.org/wiki/OpenCV) and implemented the embedded system for robot's navigation using AVR and LPC1768 microcontrollers in [C](https://en.wikipedia.org/wiki/C_(programming_language)).
-
-I'm highly interested in [Robotics](https://en.wikipedia.org/wiki/Robotics), [IoT](https://en.wikipedia.org/wiki/Internet_of_things), [InfoSec](https://en.wikipedia.org/wiki/Information_security), and [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning).
-
-Nowdays I continue learning web and mobile application development ...
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 
-<!--
-**m3y54m/m3y54m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-Here are some ideas to get you started:
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>If you like to keep in touch with me on social networks, just make a connection ⛓️.
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://ir.linkedin.com/in/meysamparvizi)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/m3y54m)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/meysam.parvizi)
