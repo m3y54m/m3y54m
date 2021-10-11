@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="assets/me.jpg" alt="m3y54m" />
 
-<p>You can take a look at all my open source hardware and software projects here. I hope you find them interesting and useful and give me some stars ⭐.</p>
+<p>You can take a look at all my open source hardware and software projects here. I hope you find them useful. So don't forget to star ⭐ my repositories 😄.</p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=m3y54m&show_icons=true&theme=bear" alt="m3y54m" />
 
