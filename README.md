@@ -6,7 +6,7 @@
 
 <p>You can take a look at all my open source hardware and software projects here. I hope you find them useful. So don't forget to star ⭐ my repositories 😄</p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=m3y54m&show_icons=true&theme=slateorange" alt="m3y54m" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=m3y54m&show_icons=true&theme=blue-green" alt="m3y54m" />
 
 <p>These are the languages, technologies and tools which I've used in my projects.</p>
 
