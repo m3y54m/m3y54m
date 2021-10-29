@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Nice to see you</h1>
 
-<p>I'm Meysam Parvizi. An electronics engineer with great passsion in <b>Embedded Sytems</b> 👨‍💻 , <b>Robotics</b> 🤖 and <b>Internet of Things</b> 🌐</p>
+<p>I'm Meysam Parvizi. An electronics engineer with great passion in <b>Embedded Sytems</b> 👨‍💻 , <b>Robotics</b> 🤖 and <b>Internet of Things</b> 🌐</p>
 
 <p align="center"> <img src="assets/me.jpg" alt="m3y54m" />
 
