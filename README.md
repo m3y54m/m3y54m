@@ -7,8 +7,8 @@
 <p>You can take a look at all my open source hardware and software projects here. I hope you find them useful.</p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=m3y54m&show_icons=true&theme=blue-green" />
-<p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m3y54m&theme=monokai" />
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=m3y54m&theme=blue-green" />
+<p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m3y54m&theme=monokai" />
   
 <p>These are the languages, technologies and tools which I've used in my projects.</p>
 
