@@ -2,7 +2,7 @@
 
 <p>I'm Meysam Parvizi. An electronics engineer with a great passion in <b>Embedded Sytems</b> 👨‍💻 , <b>Robotics</b> 🤖 and <b>Internet of Things</b> 🌐</p>
 
-<p align="center"> <img src="assets/me.jpg" alt="m3y54m" />
+<p align="center"> <img src="assets/me.jpg" alt="m3y54m" width=300 height=238/>
 
 <p>You can take a look at all my open source hardware and software projects here. I hope you find them useful.</p>
 
