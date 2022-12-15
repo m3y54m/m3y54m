@@ -16,7 +16,7 @@
 ![Verilog](https://img.shields.io/badge/verilog-blue?style=for-the-badge&logo=v&logoColor=white)
 ![ISE](https://img.shields.io/badge/ise-green?style=for-the-badge&logo=xilinx&logoColor=red)
 ![ESP-IDF](https://img.shields.io/badge/esp-idf-blue?style=for-the-badge)
-![FreeRTOS](https://img.shields.io/badge/rtos-purple?style=for-the-badge)
+![FreeRTOS](https://img.shields.io/badge/freertos-purple?style=for-the-badge)
 ![Altium Designer](https://img.shields.io/badge/altium%20designer-orange?style=for-the-badge)
 <!--- ![Vivado](https://img.shields.io/badge/vivado-green?style=for-the-badge&logo=xilinx&logoColor=red) -->
 
