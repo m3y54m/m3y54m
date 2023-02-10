@@ -8,16 +8,16 @@
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=m3y54m&theme=slateorange" />
 <p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m3y54m&theme=zenburn" />
   
-<p>These are the languages, technologies and tools which I've used in my projects.</p>
+<p>These are the technologies and tools which I've used in my projects.</p>
 
-<h2>FPGA & Embedded Design</h2>
+<h2>FPGA & Embedded Development</h2>
 
 ![VHDL](https://img.shields.io/badge/vhdl-red?style=for-the-badge&logo=v&logoColor=white)
-![Verilog](https://img.shields.io/badge/verilog-blue?style=for-the-badge&logo=v&logoColor=white)
 ![ISE](https://img.shields.io/badge/ise-green?style=for-the-badge&logo=xilinx&logoColor=red)
 ![ESP-IDF](https://img.shields.io/badge/esp-idf-blue?style=for-the-badge)
 ![FreeRTOS](https://img.shields.io/badge/freertos-purple?style=for-the-badge)
 ![Altium Designer](https://img.shields.io/badge/altium%20designer-orange?style=for-the-badge)
+<!--- ![Verilog](https://img.shields.io/badge/verilog-blue?style=for-the-badge&logo=v&logoColor=white) -->
 <!--- ![Vivado](https://img.shields.io/badge/vivado-green?style=for-the-badge&logo=xilinx&logoColor=red) -->
 
 <h2>Programming Languages</h2>
