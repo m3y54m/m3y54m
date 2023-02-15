@@ -1,13 +1,13 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Nice to see you</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/> Hi! Nice to see you</h1>
 
-<p>I'm Meysam, a passionate electronics engineer with a strong interest in <b>Embedded Sytems</b> 👨‍💻, <b>Robotics</b> 🤖, and the <b>Internet of Things</b> 🌐.</p>
+<p>This is Meysam, an electronics engineer with a strong interest in <b>Embedded Sytems 👨‍💻</b>, <b>Robotics</b> 🤖, and <b>Internet of Things</b> 🌐.</p>
 <p>I have a number of open source hardware and software projects available here. Feel free to take a look and I hope you find them helpful.</p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=m3y54m&show_icons=true&theme=slateorange" />
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=m3y54m&theme=slateorange" />
 <p align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m3y54m&theme=zenburn" />
   
-<p>These are the technologies and tools which I've used in my projects.</p>
+<p>These are the tools and technologies that I've mostly used in my projects.</p>
 
 <h2>FPGA & Embedded Development</h2>
 
