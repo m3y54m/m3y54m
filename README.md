@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/> Hi! Nice to see you</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/> Hi!</h1>
 
 <p>This is Meysam, an electronics engineer with a strong interest in <b>Embedded Sytems 👨‍💻</b>, <b>Robotics</b> 🤖, and <b>Internet of Things</b> 🌐.</p>
 <p>I have a number of open source hardware and software projects available here. Feel free to take a look and I hope you find them helpful.</p>
