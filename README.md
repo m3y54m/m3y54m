@@ -50,9 +50,7 @@
 <!-- ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) -->
 <!-- ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) -->
 
-<p>You can also find me on social networks:</p>
+<p>You can also contact me on social networks:</p>
 
 [![Mastodon](https://img.shields.io/mastodon/follow/109554559896661819?domain=https%3A%2F%2Fmastodon.social&logo=Mastodon&logoColor=white&style=for-the-badge)](https://mastodon.social/@m3y54m)
 <!-- [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/m3y54m) -->
- 
-![](https://komarev.com/ghpvc/?username=m3y54m&style=for-the-badge)
