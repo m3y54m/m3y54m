@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643516190/22158/oh-hello.gif?1643516190" width="45"/> Hi!</h1>
 
-<p>This is Meysam, an electronics engineer with a strong interest in <b>Embedded Sytems 👨‍💻</b>, <b>Robotics</b> 🤖, and <b>Internet of Things</b> 🌐.</p>
-<p>I have a number of open source hardware and software projects available here. Feel free to take a look and I hope you find them helpful.</p>
+<p>This is Meysam, an electronics engineer with a strong interest in <b>Embedded Sytems 👨‍💻</b> and <b>Robotics</b></p>
+<p>I have some open source hardware and software projects available here. Feel free to take a look and I hope you find them helpful.</p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=m3y54m&show_icons=true&theme=slateorange" />
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=m3y54m&theme=slateorange" />
