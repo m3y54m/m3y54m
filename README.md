@@ -54,3 +54,9 @@
 
 [![Mastodon](https://img.shields.io/mastodon/follow/109554559896661819?domain=https%3A%2F%2Fmastodon.social&logo=Mastodon&logoColor=white&style=for-the-badge)](https://mastodon.social/@m3y54m)
 <!-- [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/m3y54m) -->
+
+<p>Finally, if you are here because you want to be an embedded engineer, I hope this roadmap helps you:</p>
+
+![EmbeddedRoadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap/assets/1549028/8f5d77ac-ab76-4893-af37-a1af060e888d)
+
+<p><b>If you are an experienced embedded engineer, it will be my pleasure if you contribute to <a href="https://github.com/m3y54m/Embedded-Engineering-Roadmap">improve or complete this roadmap</a>.</b></p>
