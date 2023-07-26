@@ -59,4 +59,4 @@
 
 ![Embedded Systems Engineering Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap/releases/download/Rev.A-2023-07-26/Embedded-Engineering-Roadmap.png)
 
-<b>If you are already an embedded engineer, it will be my pleasure if you contribute to <a href="https://github.com/m3y54m/Embedded-Engineering-Roadmap">improve or complete this roadmap</a>.</p>
+<p>If you are already an embedded engineer, it will be my pleasure if you contribute to <a href="https://github.com/m3y54m/Embedded-Engineering-Roadmap">improve or complete this roadmap</a>.</p>
