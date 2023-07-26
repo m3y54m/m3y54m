@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643516190/22158/oh-hello.gif?1643516190" width="45"/> Hi!</h1>
 
 <p>This is Meysam, an electronics engineer with a strong interest in <b>Embedded Sytems 👨‍💻</b> and <b>Robotics</b>.</p>
-<p>I have some open source hardware and software projects available here. Feel free to take a look and I hope you find them helpful.</p>
+<p>Some of my open source hardware and software projects are available here. Feel free to take a look, use, and open an issue if you saw any problem.</p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=m3y54m&show_icons=true&theme=slateorange" />
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=m3y54m&theme=slateorange" />
@@ -59,4 +59,4 @@
 
 ![Embedded Systems Engineering Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap/releases/download/Rev.D-2023-07-27/Embedded-Engineering-Roadmap.png)
 
-<p>If you are already an embedded engineer, it will be my pleasure if you contribute to <a href="https://github.com/m3y54m/Embedded-Engineering-Roadmap">improve or complete this roadmap</a>.</p>
+<p>If you are already an embedded engineer, it would be my pleasure if you could <a href="https://github.com/m3y54m/Embedded-Engineering-Roadmap">contribute to improving or completing this roadmap</a>.</p>
