@@ -14,6 +14,6 @@
 
 <p>If you are here because you want to be an embedded engineer, I hope this roadmap helps you:</p>
 
-![Embedded Systems Engineering Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap/releases/download/Rev.K-2023-07-31/Embedded-Engineering-Roadmap.png)
+![Embedded Systems Engineering Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap/releases/download/Rev.L-2023-07-31/Embedded-Engineering-Roadmap.png)
 
 <p>Already an embedded engineer? It would be my pleasure if you could <a href="https://github.com/m3y54m/Embedded-Engineering-Roadmap">contribute to improving this roadmap</a>.</p>
