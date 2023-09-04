@@ -10,7 +10,6 @@
 <p>My active social network accounts:</p>
 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://twitter.com/m3y54m)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meysamparvizi/)
 [![Mastodon](https://img.shields.io/mastodon/follow/109554559896661819?domain=https%3A%2F%2Fmastodon.social&logo=Mastodon&logoColor=white&style=for-the-badge)](https://mastodon.social/@m3y54m)
 
 <p>If you are here because you want to be an embedded engineer, I hope this roadmap helps you:</p>
