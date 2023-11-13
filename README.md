@@ -9,8 +9,7 @@
 </p>
 <p>Hey! <img src="https://emojis.slackmojis.com/emojis/images/1668802256/62708/greetings.gif?1668802256" width="20"/></p>
 <p>I am Meysam, an electronics engineer with a strong passion for anything related to <b>Embedded Systems 👨‍💻</b></p>
-<p>You can find my open-source hardware and software projects here, mostly consisting of hobby and educational projects. Take a look and test them out...</p>
-<p>Feel free to submit an issue if you think something needs to be fixed or improved.</p>
+<p>You can find my open-source hardware and software projects here, mostly consisting of hobby and educational projects. Take a look, test them out and feel free to submit an issue if you think something needs to be fixed or improved.</p>
 
 <p>If you are here because you want to be an embedded engineer, I hope this roadmap helps you.</p>
 
