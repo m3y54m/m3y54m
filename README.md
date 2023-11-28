@@ -23,5 +23,5 @@
 
 <p align="center">
 <a href="https://twitter.com/m3y54m" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Twitter" /></a>
-<a href="https://mastodon.social/@m3y54m" target="_blank"><img src="https://img.shields.io/mastodon/follow/109554559896661819?domain=https%3A%2F%2Fmastodon.social&logo=Mastodon&logoColor=white&style=for-the-badge" alt="Mastodon" /></a>
+<a href="https://www.linkedin.com/in/meysamparvizi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
 </p>
